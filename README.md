@@ -2,7 +2,7 @@
 
 This repository contains binary releases of the Radiam agent.
 
-Download them from [the releases tab](./releases).
+Download them from [the releases tab](/usask-rc/radiam-agent-releases/releases).
 
 Learn more about Radiam here: [https://www.radiam.ca](https://www.radiam.ca)
 
