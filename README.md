@@ -6,9 +6,14 @@ Download them from [the releases tab](https://github.com/usask-rc/radiam-agent-r
 
 Learn more about Radiam here: [https://www.radiam.ca](https://www.radiam.ca)
 
-The full source code is not yet publicly released; we anticipate the first public release will be June 2019. All source code and compiled releases are published under the MIT License.  Please see the LICENSE file in this repository.
+All source code and compiled releases are published under the MIT License.  Please see the LICENSE file in this repository.
 
-Copyright 2019 University of Saskatchewan and Simon Fraser University
+## Radiam
 
-Funding for this project has been provided by [CANARIE](https://www.canarie.ca/rdm/)
+The source code for Radiam is at https://github.com/usask-rc/radiam
 
+## Credits
+
+This project was funded by [CANARIE](https://www.canarie.ca/rdm/), and also received computing and storage in kind from [Compute Canada](https://www.computecanada.ca/).
+
+Copyright 2019-2020 University of Saskatchewan and Simon Fraser University
